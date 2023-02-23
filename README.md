@@ -4,7 +4,7 @@ I once made a Higher or Lower game using the Java language. I wanted to see if I
 
 The purpose for writing this software was to test my knowledge of what I've learned so far in the JavaScript language. I have found that I really enjoy HTML and CSS, and I knew JavaScript is the third language that goes together with them. Once one masters all three, you never know what you can make!
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/5kbsfe2o59g)
 
 # Development Environment
 
