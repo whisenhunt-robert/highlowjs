@@ -24,8 +24,5 @@ The purpose for writing this software was to test my knowledge of what I've lear
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-
-- Item 1
-- Item 2
-- Item 3
+- I want to make a CSS file to make the game look nicer than the basic HTML look.
+- Add photos or emojis for Higher or Lower to add some fun to it.
